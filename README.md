@@ -23,3 +23,5 @@ Developing this browser-based experience helped me implement essential programmi
 
 ---
 *Created for educational purposes during my early learning days as an aspiring frontend developer.*
+
+
